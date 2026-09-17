@@ -1,0 +1,11 @@
+title: Urekz Handbook
+description: Cómo trabaja Urekz. Un colectivo AI-native que construye productos, comparte lo que aprende y crea comunidad alrededor de la IA aplicada.
+lang: es
+url: https://handbook.urekz.com
+theme: jekyll-theme-minimal
+permalink: pretty
+markdown: kramdown
+exclude: [README.md, LICENSE.md, Gemfile, vendor]
+defaults:
+  - scope: {path: ""}
+    values: {layout: default}
