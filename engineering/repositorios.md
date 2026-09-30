@@ -2,7 +2,7 @@
 title: Repositorios
 owner: Alexis Zazueta
 status: active
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-30
 review_trigger: Al crear un repositorio o cambiar de plan de GitHub.
 ---
 
@@ -26,7 +26,7 @@ Los repositorios de producto son privados. Este handbook es público. El reposit
 
 ## Convenciones
 
-- **Ramas:** `main` más ramas cortas `<tipo>/<ID>-<descripcion>`. Una rama por story; mergeada antes del cierre del ciclo.
+- **Ramas:** `main` más ramas cortas `<tipo>/<ID>-<descripcion>`. Una rama por cambio pequeño y completo, vinculada al work item correspondiente (story o task); mergeada antes del cierre del ciclo.
 - **Commits:** Conventional Commits (`feat`, `fix`, `docs`, `chore`, `refactor`, `test`). Firmados.
 - **Merge:** squash only; el título del PR es el commit; la rama se borra al mergear.
 - **Versiones:** SemVer y un `CHANGELOG.md` escrito para personas.
@@ -36,3 +36,4 @@ Los repositorios de producto son privados. Este handbook es público. El reposit
 ## Un límite que conocemos
 
 En el plan gratuito de GitHub, los repositorios privados no tienen protección de rama. Lo cubrimos con una guardia automática compartida que avisa y falla si alguien hace push directo a `main`, y con la convención. Cuando haya código de producto y más de una persona activa por repo, pasaremos al plan de equipo.
+

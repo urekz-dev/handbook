@@ -2,7 +2,7 @@
 title: RFD — índice
 owner: Alexis Zazueta
 status: active
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-30
 review_trigger: Al publicar cada RFD.
 ---
 
@@ -21,3 +21,5 @@ Aquí están los RFD sobre cómo trabajamos. Los que tocan proveedores, dinero, 
 | [0011](0011-fronteras-notion-plane-github.md) | Fronteras de documentación Notion–Plane–GitHub | superseded by 0014 | Alexis Zazueta |
 | [0013](0013-idioma-del-handbook.md) | El handbook se escribe en español | published | Alexis Zazueta |
 | [0014](0014-platform-map-revisado.md) | Handbook público en git, Notion como registro | published | Alexis Zazueta |
+| [0017](0017-work-items-claros.md) | Work items claros, sin formato obligatorio | discussion | Alexis Zazueta |
+
