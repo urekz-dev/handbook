@@ -2,7 +2,7 @@
 title: Cómo trabajamos con IA
 owner: Alexis Zazueta
 status: active
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-30
 review_trigger: Cambio en la política de autonomía de agentes.
 implementation_status: partial
 ---
@@ -36,4 +36,5 @@ Usamos distintos modelos para distintas funciones: uno puede planificar, otro im
 
 ## Dónde estamos
 
-Las etiquetas `flow:*` existen y las usamos; los recibos se exigen en los work items. Un harness de agentes propio, hoy en el taller, es la apuesta que convierte este modelo en herramienta. Ningún agente tiene hoy permisos de escritura permanentes en producción.
+Las etiquetas `flow:*` existen y las usamos; los recibos forman parte de la ejecución y se vinculan al trabajo correspondiente, sin repetir esa obligación en cada descripción. Un harness de agentes propio, hoy en el taller, es la apuesta que convierte este modelo en herramienta. Ningún agente tiene hoy permisos de escritura permanentes en producción.
+
